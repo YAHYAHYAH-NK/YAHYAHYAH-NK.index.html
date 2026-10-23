@@ -22,6 +22,7 @@
 
 <h3>Academic Societies</h3>
 <ul>
+　<li><strong>JPSA</strong> — Japan Political Science Association (日本政治学会)</li>
   <li><b>JAAS</b> — Japan Association for Asian Studies (アジア政経学会)</li>
   <li><b>JATS</b> — Japan Association for Taiwan Studies (日本台湾学会)</li>
 </ul>
