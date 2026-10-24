@@ -26,7 +26,8 @@
   <li><b>JAAS</b> — Japan Association for Asian Studies (アジア政経学会)</li>
   <li><b>JATS</b> — Japan Association for Taiwan Studies (日本台湾学会)</li>
 </ul>
-
+<h3>Presentations</h3>
+　　　アジア政経学会秋季大会自由論題報告者
 <h3>Education</h3>
 <ul>
   <li><b>M.A. Student in Security Studies</b> | Takushoku University <i>(Present)</i></li>
